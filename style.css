@@ -7,11 +7,21 @@
     font-size: 30px;
   }
 
-  .img_responsive{
-    font-size: 15px;
-    image-resolution: 15px;
-  }
+.img_responsive
+{
+  font-size: 15px;
+  image-resolution: 15px;
+}
 
-  h5{
-    background-color: pink;
-  }
+h5
+{
+  background-color: pink;
+}
+
+.overall_results
+{
+  font-weight: bold;
+  font-size: 15px;
+  width: 50%;
+  text-align: center;
+}
